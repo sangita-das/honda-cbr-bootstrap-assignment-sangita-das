@@ -46,50 +46,13 @@ body{
 
 
 
-
-.bottom-img{
-    width: 431.2px;
-height: 423.5px;
-}
-
-.common-part-1{
-    padding-top:50px;
-    padding-left: 25%;
     
-}
-.common-part-2{
-    /* padding-top: 120px; */
 
-}
 
-.question{
-    border: none;
-    position: absolute;
-width: 1125px;
-height: 495px;
-}
 
-.form-floating{
-    position: relative;
-}
 
-.honda-background{
-   
-    background-color: #264653;
-   
 
-}
 
-.location-btn{
-    transition: none;
-    font-weight: 400;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-    color: #fff;
-    
-}
 
-.icon{
-   
-}
+
+
