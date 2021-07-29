@@ -1,0 +1,67 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+/* Header Banner  */
+.hero-banner{
+    background-color: #264653;
+    color: #FFFFFF;
+}
+
+.btn-purchase{
+   background-color: #E76F51;
+   color: #FFFFFF;
+}
+
+.text-orange{
+    color: #E76F51;
+}
+
+/* Bike Display  */
+
+.bike-color{
+    filter: grayscale(100%);
+}
+
+
+
+
+/* clints rating  */
+
+/* .fa{
+    display: inline-block;
+    font-size: inherit;
+    
+}
+.rating li.active{
+    color: #ff9c1c;
+    
+} */
+
+
+
+.fa-star{
+    font-size: 12px;
+   
+}
+.fa-star.filled{
+    color: #E77C40;   
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+
+
+
+
+.bottom-img{
+    width: 431.2px;
+height: 423.5px;
+}
